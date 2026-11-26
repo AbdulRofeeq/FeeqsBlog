@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="FeeqsBlog.WebUI.Server/FeeqsBlog.WebUI.Server.csproj" />
+  </Folder>
+</Solution>
