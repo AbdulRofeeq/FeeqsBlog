@@ -7,4 +7,8 @@
     <BlazorDisableThrowNavigationException>true</BlazorDisableThrowNavigationException>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\FeeqsBlog.Application\FeeqsBlog.Application.csproj" />
+  </ItemGroup>
+
 </Project>

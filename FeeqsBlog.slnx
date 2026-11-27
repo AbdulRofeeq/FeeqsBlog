@@ -1,5 +1,7 @@
 <Solution>
   <Folder Name="/src/">
+    <Project Path="FeeqsBlog.Application/FeeqsBlog.Application.csproj" Id="92dbeb00-36e5-444c-a7d9-c1099d15fe14" />
+    <Project Path="FeeqsBlog.Domain/FeeqsBlog.Domain.csproj" Id="fdd37899-6bb4-4373-b260-aea12adfaa50" />
     <Project Path="FeeqsBlog.WebUI.Server/FeeqsBlog.WebUI.Server.csproj" />
   </Folder>
 </Solution>
